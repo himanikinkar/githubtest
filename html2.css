@@ -1,0 +1,36 @@
+body,
+html{
+  height: 100%;
+  margin: 0;
+  font:400 15px/1.8 "Lato" , sans-serif;
+  color:#777;
+}
+/*
+
+
+
+
+
+*/
+
+.bgimg
+{
+  position: relative;
+  background-image: url("https://www.usnews.com/dims4/USNEWS/9e4f399/2147483647/crop/1996x1310%2B3%2B0/resize/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F37%2F6f%2F7d43e9cf44c8a316b7c3198152a0%2F200819-stock.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  min-height: 60%;
+  
+}
+.gallery{
+  margin: 20px 40px;
+  padding: 60px 15px 15px 30px;
+  position: center;
+  border: black 2px;
+
+}
+.border{
+  
+}
